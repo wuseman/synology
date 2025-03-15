@@ -1,5 +1,4 @@
-
-### Synology Cheatsheet
+# Synology Cheatsheet
 
 ### Print workgroup for NAS:
 
