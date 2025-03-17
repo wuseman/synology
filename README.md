@@ -1,10 +1,6 @@
-------
-title: "Synology Cheatsheet"
-descriptin: "This cheatsheet provides a collection of command-line utilities available on Synology NAS devices. These commands help with networking, user management, storage, tuning, and system debugging."
-hide: toc
----
-
 # Synology Cheatsheet
+
+This cheatsheet provides a collection of command-line utilities available on Synology NAS devices. These commands help with networking, user management, storage, tuning, and system debugging.
 
 ### Print workgroup for NAS:
 
